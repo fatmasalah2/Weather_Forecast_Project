@@ -1,0 +1,52 @@
+body{
+    background-image: url('../images/banner.png');
+    background-size: 100% 100%;
+}
+
+.navbar{
+    background-color: rgb(2, 24, 39);
+}
+ 
+input{
+    border-radius: 25px;
+    height: 50px;
+    background-color: rgb(2, 24, 39);
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+}
+
+input , textarea {
+    color: white !important;
+}
+
+button{
+    position: absolute;
+    border-radius: 25px;
+    top: 50px;
+    right: 175px;
+}
+
+.card{
+    width: 30%;
+    border-radius: 0px;
+    border: none;
+    height: 272px;
+}
+
+.today , .next-day2 , .thin-tape2{
+    background-color: rgb(50, 75, 186); ;
+}
+
+.next-day1{
+    background-color: rgb(2, 12, 39);
+}
+
+.thin-tape1{
+    background-color: rgb(2, 12, 39);
+}
+
+.deg{
+    font-size: 40px;
+}
